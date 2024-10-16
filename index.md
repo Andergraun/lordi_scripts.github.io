@@ -11,7 +11,7 @@
 - **Esp [by lordi]**: Loads an ESP (Extra Sensory Perception) script.
 - **BoostFps**: Optimizes the game's visual settings to improve FPS.
 - **[Max] BoostFps**: Further optimizes the game's visual settings for maximum FPS improvement.
-- **Enable [JUMP] button**: Allows the player to jump higher and more frequently.
+- **Enable [JUMP] button**: Enables the jump button if it was disabled (mobile script).
 - **Reach Button [ProximityPrompt]**: Increases the activation distance of all ProximityPrompts.
 
 ### Utility
