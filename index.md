@@ -1,7 +1,5 @@
 # LordiHub G v0.3
 
-## Tabs Overview
-
 ### Admin
 - **Infinity Yield**: Loads the Infinity Yield admin command script.
 - **Nameless Admin**: Loads the Nameless Admin script.
